@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Welcome to Department Of Business Management National E Conference Sponsered by AICTE
+subtitle: Welcome to Department Of Business Management National E Conference Sponsered by AICTE
 subtitle: 12th  August 2020
 ---
 ### Brief
