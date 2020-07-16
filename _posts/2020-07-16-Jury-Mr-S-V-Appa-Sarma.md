@@ -8,4 +8,3 @@ share-img:
 tags: [speaker, jurry]
 ---
 
-https://www.aicte-india.org/
