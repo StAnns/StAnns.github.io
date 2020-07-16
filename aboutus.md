@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Welcome to Department Of Business Management St.Anns
+Welcome to Department Of Business Management St.Ann's
 
 ---
 
 ### Objectives
 
 Today’s corporate sector is increasingly emphasizing on sustainability as a key to business success and prosperity. The bottom-line attention of corporates revolves around three important pillars of sustainability- people, profits and environment. To sustain in competitive market, companies must monitor and asses the emerging trends in order to help maintain an existing business or a start up.
-The conference aims
+
 
 ### The conference aims
 To bring together various leading academicians, researchers, industry experts and students to have enriching discussions on latest trends of the new decade in areas of business, management and entrepreneurship.

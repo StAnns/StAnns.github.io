@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oragnisers
+title: Organisers
 subtitle: Department of Business Management
 ---
 
