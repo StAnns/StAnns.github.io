@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AICTE
+title: Dr.K.K.Veluri
 subtitle: Faculty , ICBM, Hyderabad 
 cover-img: 
 thumbnail-img: 
@@ -8,4 +8,3 @@ share-img:
 tags: [speaker, jury]
 ---
 
-https://www.aicte-india.org/
