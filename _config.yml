@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: National Conference on Sustainable Solution
+title: National Conference on 12 August 2020
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -13,9 +13,8 @@ author: Dept of Business Management St.Ann's
 
 navbar-links:
   About Me: "aboutus"
-  Resources:
-    - Register: "https://docs.google.com/forms/d/1IKLdvTUZxhmzScgIKlmcLF95dfuLbQyqwAgFS3izxv8/edit?usp=sharing"
-    - Paper Submission: "https://docs.google.com/forms/d/1EXWhflKXUot4YvxDMTTz0oshBz54PAlv2Ow5HS1iK4E/edit?usp=sharing"
+  Register: "https://docs.google.com/forms/d/1IKLdvTUZxhmzScgIKlmcLF95dfuLbQyqwAgFS3izxv8/edit?usp=sharing"
+  Paper Submission: "https://docs.google.com/forms/d/1EXWhflKXUot4YvxDMTTz0oshBz54PAlv2Ow5HS1iK4E/edit?usp=sharing"
   Author's home: ""
 
 # --- Logo --- #
