@@ -1,28 +1,28 @@
 ---
 layout: page
-title: Oragnisers
+title: Organisers
 subtitle: Department of Business Management
 ---
 
 
 
-###CHIEF PATRON
+### CHIEF PATRON
 
 Sr. Anthonamma, Superior General
 
-###PATRON
+### PATRON
 
 Dr. Sr. P. Amrutha, Principal
 
-###CONVENOR
+### CONVENOR
 
 Dr. S. Naga Poornima, Assistant Professor, Dept. of Business Management
 
-###CO-CONVENOR
+### CO-CONVENOR
 
 Mrs. A. Mary Francina, Associate Professor, Dept. of Business Management
 
-###ADVISORY COMMITTEE
+### ADVISORY COMMITTEE
 
 Prof. A. Suryanarayana, Former Dean, Faculty of Management, Osmania University
 
